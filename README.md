@@ -4,7 +4,7 @@
 [![doc-status](https://github.com/stanford-esrg/retina/actions/workflows/rustdoc.yml/badge.svg)](https://stanford-esrg.github.io/retina/retina_core)
 
 Retina is a network analysis framework that enables operators and researchers
-to ask complex questions about high-speed (>100gbE) network links. Retina
+to ask complex questions about high-speed (>200gbE) network links. Retina
 allows users to easily *subscribe* to subsets of parsed application-layer
 sessions, reassembled network flows, or raw packets in real-time and to run
 arbitrary analysis code in a standard Rust-based software environment. Retina
