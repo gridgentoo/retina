@@ -20,10 +20,10 @@ optimizes for:
   sessions using a simple filter and callback interface.
 
 - **Performance:** Retina is capable of real-time traffic analysis in high
-  volume (100G+) environments, such as ISPs or academic institutions.
+  volume (200G+) environments, such as ISPs or academic institutions.
 
 - **Deployability:** Retina is readily deployable on a single multi-core server
-  with commodity 100gbE NICs (e.g., Mellanox ConnectX-5 or Intel E810).
+  with commodity 200gbE NICs (e.g., Mellanox ConnectX-5 or Intel E810).
 
 - **Security:** Retina leverages compile-time memory safety guarantees offered
   by Rust to safely and efficiently process network traffic.
