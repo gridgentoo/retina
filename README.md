@@ -1,3 +1,6 @@
+Mellanox ConnectX-6 Dx: Эта сетевая карта поддерживает скорость передачи данных до 200 Gbps и имеет низкую задержку
+ввода-вывода (до 200 нс).    
+
 # Retina
 
 [![build-status](https://github.com/stanford-esrg/retina/actions/workflows/ci.yml/badge.svg)](https://github.com/stanford-esrg/retina/actions)
@@ -26,7 +29,7 @@ optimizes for:
 ## Documentation
 
 A detailed description of Retina's architecture and its performance can be
-found in our SIGCOMM'22 paper: *[Retina: Analyzing 100 GbE Traffic on Commodity
+found in our SIGCOMM'22 paper: *[Retina: Analyzing 200 GbE Traffic on Commodity
 Hardware](https://thegwan.github.io/files/retina.pdf)*.
 
 Documentation for using and developing against Retina can be found
